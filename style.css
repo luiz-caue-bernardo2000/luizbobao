@@ -14,6 +14,8 @@ body{background-color: black;
 .caraqcriouocarro{
     width: 18%;
 }
-.textoum{
+    .textoum{
     color: white;
-} 
+    display: flex;
+    justify-content: space-evenly;
+    } 
