@@ -1,8 +1,9 @@
 body{background-color: black;
 }
-img{
-    width: 17%;
+.engrenagem{
+    width: 5%;
 }
+
     header{
         display:flex;
         justify-content: space-around;
