@@ -3,6 +3,9 @@ body{background-color: black;
 .engrenagem{
     width: 5%;
 }
+.caraqcriouocarro{
+    width: 18%;
+}
 
     header{
         display:flex;
