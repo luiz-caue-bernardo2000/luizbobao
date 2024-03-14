@@ -3,12 +3,6 @@ body{background-color: black;
 .engrenagem{
     width: 5%;
 }
-.caraqcriouocarro{
-    width: 18%;
-}
-.textoum{
-    color: white;
-}
 
     header{
         display:flex;
@@ -17,3 +11,9 @@ body{background-color: black;
         background-color: white
         ;
     }
+.caraqcriouocarro{
+    width: 18%;
+}
+.textoum{
+    color: white;
+}
