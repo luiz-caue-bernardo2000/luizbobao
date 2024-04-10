@@ -1,6 +1,6 @@
 body{background-color: black;
 }
-.engrenagem{
+#engrenagem{
     width: 5%;
 }
 
@@ -11,7 +11,7 @@ body{background-color: black;
         background-color: white
         ;
     }
-.caraqcriouocarro{
+#caraqcriouocarro{
     width: 18%;
 }
     .textoum{
