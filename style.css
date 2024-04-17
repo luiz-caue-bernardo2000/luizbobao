@@ -23,7 +23,7 @@ body{background-color: black;
     } 
 .equipe{
     display: grid;
-    grid-template-columns: 33 33 33;
+    grid-template-columns: 33% 33% 33%;
     color: whitesmoke;
 }
     .fotobobao{
