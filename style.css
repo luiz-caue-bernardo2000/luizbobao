@@ -17,7 +17,7 @@ body{background-color: black;
     .textoum{
     color: white;
     display: flex;
-    justify-content: space-around;
+    justify-content: left;
     } 
 .equipe{
     display: grid;
