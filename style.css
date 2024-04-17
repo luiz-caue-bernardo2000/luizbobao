@@ -12,19 +12,20 @@ body{background-color: black;
     }
     
 #caraqcriouocarro{
-    width: 18%;
+    width: 18;
 }
     .textoum{
     color: white;
     display: flex;
     justify-content: space-around;
     text-align: center;
+    padding 10px 10px 0px 10px
     } 
 .equipe{
     display: grid;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns: 33 33 33;
     color: whitesmoke;
 }
     .fotobobao{
-        width: 40%;
+        width: 40;
     }
