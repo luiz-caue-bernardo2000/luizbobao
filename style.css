@@ -1,33 +1,43 @@
-body{background-color: black;
+body {
+    background-color: black;
 }
-#engrenagem{
+
+#engrenagem {
     width: 5%;
 }
 
-    header{
-        display:flex;
-        justify-content: space-around;
-        align-items: center;
-        background-color: white
-    }
-    
-#caraqcriouocarro{
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white
+}
+
+#caraqcriouocarro {
     width: 18%;
 }
-    .textoum{
+
+.textoum {
     color: white;
     display: flex;
     justify-content: space-around;
     text-align: center;
     padding: 10px
-    } 
-.equipe{
+}
+
+
+.equipe {
     display: grid;
     justify-items: end;
     grid-template-columns: 33% 33% 33%;
-    background-color: whitesmoke;
+
     padding-top: 20px;
 }
-    .fotobobao{
-        width: 40%;
-    }
+
+.fotobobao {
+    width: 40%;
+}
+
+footer {
+    background-color: whitesmoke;
+}
