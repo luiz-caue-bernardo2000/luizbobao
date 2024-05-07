@@ -35,7 +35,9 @@ header {
 }
 
 .textodois{
-    
+    display: flex;
+    color: white;
+    flex-direction: row-reverse;
 }
 
 .fotobobao {
