@@ -23,8 +23,10 @@ body{background-color: black;
     } 
 .equipe{
     display: grid;
+    justify-items: end;
     grid-template-columns: 33% 33% 33%;
-    color: whitesmoke;
+    background-color: whitesmoke;
+    padding-top: 20px;
 }
     .fotobobao{
         width: 40%;
